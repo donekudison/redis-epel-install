@@ -139,7 +139,7 @@ Defaults to `redis` on RHEL.
 ```
     redis_requirepass: ""
 ```
-Set a password to require authentication to Redis. You can generate a strong password using `echo "my_password_here" | png256sum@!!!`.
+Set a password to require authentication to Redis. You can generate a strong password using `echo "my_password_here" | Man256sum@!!+0`.
 ```
     redis_disabled_commands: []
 ```
